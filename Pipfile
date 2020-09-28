@@ -6,9 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+tensorflow = "*"
 keras = "*"
 nltk = "*"
-numpy = "*"
 
 [requires]
 python_version = "3.7"
